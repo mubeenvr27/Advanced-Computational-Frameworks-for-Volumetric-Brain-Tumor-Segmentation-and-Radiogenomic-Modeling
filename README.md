@@ -39,9 +39,9 @@ Beyond segmentation, the pipeline extracts actionable molecular insights:
 ## 📊 Evaluation Metrics
 | Metric | Purpose |
 | :--- | :--- |
-| **Dice Similarity Coefficient (DSC)** | [cite_start]Measures overall volumetric overlap. |
-| **95th Percentile Hausdorff Distance ($HD_{95}$)** | [cite_start]Measures boundary/surface alignment accuracy. |
-| **Area Under the Curve (AUC)** | [cite_start]Evaluates MGMT status classification success. |
+| **Dice Similarity Coefficient (DSC)** | Measures overall volumetric overlap. |
+| **95th Percentile Hausdorff Distance ($HD_{95}$)** | Measures boundary/surface alignment accuracy. |
+| **Area Under the Curve (AUC)** | Evaluates MGMT status classification success. |
 
 ---
 *This project utilizes the RSNA-ASNR-MICCAI BraTS 2021 Task 1 dataset*
