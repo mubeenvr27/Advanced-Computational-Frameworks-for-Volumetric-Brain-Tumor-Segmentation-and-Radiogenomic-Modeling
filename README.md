@@ -1,14 +1,6 @@
-# Advanced-Computational-Frameworks-for-Volumetric-Brain-Tumor-Segmentation-and-Radiogenomic-Modeling
-
-If you're putting this on GitHub, stop treating it like a school report. A recruiter or a researcher wants to see the **architecture**, the **logic**, and the **reproducibility**. Your README needs to scream technical competence.
-
-Here is a professional-grade Markdown template based strictly on your provided methodology.
-
----
-
 # Advanced Radiogenomic Framework for Volumetric Brain Tumor Segmentation
 
-[cite_start]This repository implements a high-performance computational pipeline for the precise semantic segmentation of heterogeneous brain gliomas and the non-invasive prediction of **MGMT promoter methylation status**[cite: 4, 115]. [cite_start]Using the **Swin UNETR** architecture and the **BraTS 2021** dataset, this project bridges the gap between volumetric computer vision and molecular biology[cite: 36, 124].
+This repository implements a high-performance computational pipeline for the precise semantic segmentation of heterogeneous brain gliomas and the non-invasive prediction of **MGMT promoter methylation status**[cite: 4, 115]. [cite_start]Using the **Swin UNETR** architecture and the **BraTS 2021** dataset, this project bridges the gap between volumetric computer vision and molecular biology.
 
 ## 🧠 Clinical Context
 * [cite_start]**Target:** Glioblastoma multiforme, the most aggressive primary brain tumor in adults with a median survival of ~15 months[cite: 6].
